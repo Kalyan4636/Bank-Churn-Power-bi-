@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Bank Churn Analysis Power BI Dashboard" width="100%">
-</p>
+<img width="1920" height="480" alt="banner" src="https://github.com/user-attachments/assets/7436f1ba-f65f-4262-8268-9c95f8d6471e" />
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
@@ -10,11 +11,39 @@
   <img src="https://img.shields.io/badge/License-MIT-8FA3BF?style=for-the-badge" alt="MIT">
 </p>
 
-# Bank Customer Churn Analysis - Power BI Dashboard
+# Bank Customer Churn Analysis - Power BI Dashboard 
 
 An interactive, presentation-grade Power BI dashboard that shows **who leaves a bank, and why**. It covers 10,000 customers across France, Germany and Spain, and comes with a custom Figma-style dark background, a reusable Power BI theme, ready-to-paste DAX, and a full design guide.
 
----
+--- 
+
+##  Live dashboard 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozN2MxMGJjNi00NGEzLTRhYmEtODE1MC1lODNkZTFmZWZkMzAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLFAUFHJMA81sAPIOGDTSd4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjNzdjMDI1NC00Nzk0LTQxMjEtOWMxYS1jYWMzZjNhMDM5MDZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoZHRusaEIhHxAOuK9U6UjVgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggIEuNVVPsXGEBl1tgCBlYh8hsGvfnB66ul65FOhqNwk6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNDigD2iW5JKZBlBpRZe26YAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAbzbGJbhbYnZ6L7jZULK+x5u8it3HmGefixOsSbY2og2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjM3YzEwYmM2LTQ0YTMtNGFiYS04MTUwLWU4M2RlMWZlZmQzMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM3ZTIyM2M1LTllNjgtNDRiZi04ODEzLTczM2EwODBmNmI2Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAgS41VU+xcYQGXW2AIGViHyGwa9+cHrq6XrkU6Go3CTqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggXDhIfC07A0kHgpZOKLd/V3+k8lpp3Li+/26SloYqMsqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggDVZFpPaTpMU7PtD1gt937Zwp96Mbv3Tszvxr4ca1K490Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFjEOsZqkPPq59+92poky7REA1ihHuPcwnMoLBDtwNxXg2b2gW6rfzGeG2xHn346J+lVZLSyV+QlKnlS/cSEAyI=</c2pa:manifest></metadata>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1B2E"/><stop offset="1" stop-color="#16243B"/></linearGradient></defs>
+<rect width="1280" height="520" rx="18" fill="url(#bg)"/><rect x="6" y="6" width="1268" height="508" rx="18" fill="none" stroke="#FF8A6B" stroke-width="2.5" stroke-dasharray="3 9" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-48" dur="2.4s" repeatCount="indefinite"/></rect>
+<circle cx="44" cy="40" r="6" fill="#FF8A6B"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="60" y="45" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Bank Customer Churn Analysis - Power BI Dashboard  |  sample data</text>
+<rect x="40" y="70" width="180" height="84" rx="12" fill="#1D2D47"/><text x="130" y="116" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle">10K</text><text x="130" y="140" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Customers</text><rect x="240" y="70" width="180" height="84" rx="12" fill="#1D2D47"/><text x="330" y="116" fill="#FF8A6B" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle">2,037</text><text x="330" y="140" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Churned</text><rect x="440" y="70" width="180" height="84" rx="12" fill="#1D2D47"/><text x="530" y="116" fill="#1FA6B8" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle">79.6%</text><text x="530" y="140" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Retained</text><rect x="40" y="174" width="580" height="322" rx="12" fill="#1D2D47"/><text x="60" y="204" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Churn rate</text><circle cx="190" cy="350" r="70" fill="none" stroke="#1FA6B8" stroke-width="28" opacity="0.9"/><circle cx="190" cy="350" r="70" fill="none" stroke="#FF8A6B" stroke-width="28" pathLength="100" stroke-dasharray="0 100" transform="rotate(-90 190 350)"><animate attributeName="stroke-dasharray" values="0 100;20.4 79.6;20.4 79.6;0 100" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></circle><text x="190" y="360" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle">20.4%</text><text x="330" y="236" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Churn rate by country</text><text x="330" y="276" fill="#C9D4E5" font-family="Segoe UI,Arial,sans-serif" font-size="13">France</text><rect x="330" y="284" width="117" height="20" rx="5" fill="#3A5073"><animate attributeName="width" values="0;117;117;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="457" y="300" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">16.2%</text><text x="330" y="346" fill="#C9D4E5" font-family="Segoe UI,Arial,sans-serif" font-size="13">Germany</text><rect x="330" y="354" width="233" height="20" rx="5" fill="#FF8A6B"><animate attributeName="width" values="0;233;233;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="573" y="370" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">32.4%</text><text x="330" y="416" fill="#C9D4E5" font-family="Segoe UI,Arial,sans-serif" font-size="13">Spain</text><rect x="330" y="424" width="120" height="20" rx="5" fill="#3A5073"><animate attributeName="width" values="0;120;120;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="460" y="440" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">16.7%</text><rect x="640" y="70" width="600" height="426" rx="12" fill="#1D2D47"/><text x="662" y="102" fill="#E8EEF5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Customers and churn rate by age group</text><rect x="680" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;427;427;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;23;23;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="706" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">18-20</text><rect x="768" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;320;320;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;130;130;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="794" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">21-30</text><rect x="856" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;160;160;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;290;290;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="882" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">31-40</text><rect x="944" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;305;305;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;145;145;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="970" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">41-50</text><rect x="1032" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;398;398;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;52;52;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="1058" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">51-60</text><rect x="1120" y="450" width="52" height="0" rx="4" fill="#FF8A6B"><animate attributeName="y" values="450;415;415;450" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="height" values="0;35;35;0" keyTimes="0;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect><text x="1146" y="474" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle">>60</text><line x1="664" y1="450" x2="1220" y2="450" stroke="#fff" stroke-opacity="0.15"/><polyline points="706,421 794,415 882,386 970,247 1058,189 1146,348" fill="none" stroke="#FFD166" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" values="100;100;0;0;100" keyTimes="0;0.2;0.5;0.9;1" dur="7s" repeatCount="indefinite"/></polyline></svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Table of contents
 1. [Live preview](#live-preview)
@@ -36,7 +65,19 @@ An interactive, presentation-grade Power BI dashboard that shows **who leaves a 
 ---
 
 ## Live preview
-An animated sample of the finished look, running on dummy numbers. GitHub plays it automatically.
+An animated sample of the finished look, running on dummy numbers. GitHub plays it automatically.  
+
+# Background 1 
+
+<img width="1280" height="720" alt="dashboard_background_1280x720" src="https://github.com/user-attachments/assets/10e5cd7e-226b-44fc-863a-d29f1fa56304" />
+
+
+#Background 2 
+
+<img width="2560" height="1440" alt="dashboard_background_2560x1440" src="https://github.com/user-attachments/assets/2db2f7ab-b9de-4523-be16-6f93a09aefb4" />
+
+
+<img width="1920" height="1080" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e5ad9c48-676d-4eed-8a3f-588bba6758e5" /> 
 
 <p align="center">
   <img src="assets/live_dashboard.svg" alt="Animated dashboard preview" width="100%">
@@ -44,9 +85,10 @@ An animated sample of the finished look, running on dummy numbers. GitHub plays 
 
 ## Project workflow
 
-<p align="center">
-  <img src="assets/workflow.svg" alt="Project workflow: Dataset, Power Query, DAX measures, Figma background, Dashboard" width="100%">
-</p>
+<img width="916" height="142" alt="Screenshot 2026-10-06 140335" src="https://github.com/user-attachments/assets/b764524f-edd5-4760-82e9-ad02f6306505" />
+
+
+
 
 | Step | Tool | What happens |
 |---|---|---|
