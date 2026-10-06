@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1B2E"/><stop offset="1" stop-color="#16243B"/></linearGradient>
+<radialGradient id="c" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FF8A6B" stop-opacity=".3"/><stop offset="1" stop-color="#FF8A6B" stop-opacity="0"/></radialGradient>
+<radialGradient id="t" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1FA6B8" stop-opacity=".3"/><stop offset="1" stop-color="#1FA6B8" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="320" fill="url(#g)"/><circle cx="160" cy="40" r="260" fill="url(#c)"/><circle cx="1150" cy="300" r="300" fill="url(#t)"/>
+<text x="80" y="140" fill="#FF8A6B" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Bank Churn Analysis</text>
+<text x="80" y="204" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Power BI Dashboard</text>
+<text x="80" y="250" fill="#8FA3BF" font-family="Segoe UI,Arial,sans-serif" font-size="22">Custom Figma background | Dark theme | DAX measures</text>
+<g transform="translate(900,70)"><circle cx="110" cy="90" r="62" fill="none" stroke="#FF8A6B" stroke-width="26"/><circle cx="110" cy="90" r="62" fill="none" stroke="#1FA6B8" stroke-width="26" stroke-dasharray="248 390" transform="rotate(-90 110 90)"/>
+<text x="110" y="100" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle">20.4%</text></g></svg>

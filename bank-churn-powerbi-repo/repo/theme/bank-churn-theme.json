@@ -1,0 +1,26 @@
+{
+  "name": "Bank Churn Dark",
+  "dataColors": ["#FF8A6B", "#1FA6B8", "#FFD166", "#4C9AFF", "#8FA3BF", "#7C5CFF", "#2EE6A8", "#FF4D8D"],
+  "background": "#0F1B2E",
+  "foreground": "#E8EEF5",
+  "tableAccent": "#1FA6B8",
+  "good": "#1FA6B8",
+  "bad": "#FF8A6B",
+  "neutral": "#8FA3BF",
+  "textClasses": {
+    "title":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#E8EEF5" },
+    "label":  { "fontFace": "Segoe UI", "fontSize": 10, "color": "#C9D4E5" },
+    "callout":{ "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#FFFFFF" }
+  },
+  "visualStyles": {
+    "*": { "*": {
+      "background": [{ "show": true, "color": { "solidColor": "#1D2D47" }, "transparency": 100 }],
+      "border": [{ "show": false }],
+      "dropShadow": [{ "show": false }],
+      "title": [{ "show": true, "fontColor": { "solidColor": "#E8EEF5" }, "fontFamily": "Segoe UI Semibold", "fontSize": 12 }]
+    }},
+    "page": { "*": {
+      "background": [{ "color": { "solidColor": "#0F1B2E" }, "transparency": 0 }]
+    }}
+  }
+}
